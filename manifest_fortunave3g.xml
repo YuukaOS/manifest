@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="kernel/samsung/msm8916" name="yuukaos/android_kernel_samsung_msm8916" remote="github" revision="lineage-17.1"/>
+  <project path="vendor/samsung" name="yuukaos/proprietary_vendor_samsung" remote="github" revision="lineage-17.1"/>
+
+  <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="lineage-17.1"/>
+  <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="lineage-17.1"/>
+  <project path="hardware/qcom-caf/msm8916/audio" name="yuukaos/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" remote="github" revision="lineage-17.1-caf-msm8916" />
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-17.1"/>
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-17.1"/>
+
+  <project path="device/samsung/fortunave3g" name="yuukaos/android_device_samsung_fortunave3g" remote="github" revision="lineage-17.1"/>
+
+</manifest>
